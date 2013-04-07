@@ -2,6 +2,9 @@
 Created on: April 5, 2013
 @author: midnightslacker
 Description: Creates Schedule for ECF Fantasy Football League
+Considerations: Weeks 1-3 and Weeks 11-13 are special cases.
+                I want teams playing there division rivals first and last weeks
+
 '''
 
 import sys, random
@@ -23,8 +26,12 @@ owners = {1:"Christ",
           11:"Sicher",
           12:"Void"}
 
-#create lists for each week
-week1 = random.sample(seq, 12)
+#Create divisions for excluding from remaining schedule
+dNorth = ["Miller", "Millen", "Void"]
+dEast  = ["Christ", "Sicher", "Doncsecz"]
+dWest  = ["Nick A.", "Powell", "Huntington"]
+dSouth = ["Ressler", "Pal", "Gruver"]
 
-for game in week1:
-    print (game)
+
+#create sequence for remaing games for each owner.
+christ_seq = [3,4,6,7,8,10,12]
