@@ -23,6 +23,11 @@ owners = {1:"Christ",
           11:"Sicher",
           12:"Void"}
 
+#Create Divisions -- #'s correlate to owners #
+North   = [3,4,12]
+East    = [1,9,11]
+West    = [5,6,10]
+South   = [2,7,8]
 
 
 #create sequence for remaing games for each owner.
@@ -52,7 +57,7 @@ def RemainingSchedule( ownersName, seq ):
     for opp in random.sample( seq, 7):
         print "Week " + str(week) + ": " + str( owners.get(opp) )
         week += 1
-        
+
 def PrintSchedule():
     ownerVal = 0
     for owner in owners:
