@@ -1,1 +1,18 @@
-This is the design document for Schedule Generator
+** This is the design document for Schedule Generator ** 
+
+Considerations (Algorithm):
+ - Schedule should be generated with a random seed
+ - Every team has to play every other team at least once
+ - Each team plays each division rival twice
+    --> Division games are special cases
+ - Division rivals are played in the 1st three weeks and the last three weeks of the season
+    --> Weeks 1-3 and weeks 11-13 are special cases
+ - Checks in place to make sure these considerations are met
+ - Display schedule
+
+Considerations (GUI):
+ - Let user choose the number of teams to enter
+ - Let user choose the number of divisions (2 or 4)
+ - Let user choose if they want division scheduling (special cases for playing division rivals and weeks 1-3, 11-13)
+ - Display week by week schedule with nice formatting
+ - Export to CSV?
