@@ -25,34 +25,34 @@ week11 = []
 week12 = []
 week13 = []
 
-def createFirst (div1, div2, weekOne, weekTwo, weekThree):
+def createFirst (div1, div2, weekA, weekB, weekC):
     ''' Generate games for first quarter '''
     opp = 0
     
-    # First of the weeks
+    # week A
     
     game1 = (div1[opp], div1[opp+1])
-    weekOne.append(game1)
+    weekA.append(game1)
     game2 = (div1[opp+2], div2[opp])
-    weekOne.append(game2)
+    weekA.append(game2)
     game3 = (div2[opp+1], div2[opp+2])
-    weekOne.append(game3)
+    weekA.append(game3)
 
-    # second of the weeks
+    # week B
     game1 = (div1[opp+1], div1[opp+2])
-    weekTwo.append(game1)
+    weekB.append(game1)
     game2 = (div2[opp], div2[opp+1])
-    weekTwo.append(game2)
+    weekB.append(game2)
     game3 = (div1[opp], div2[opp+2])
-    weekTwo.append(game3)
+    weekB.append(game3)
 
-    # third of the weeks
+    # week C
     game1 = (div1[opp], div1[opp+2])
-    weekThree.append(game1)
+    weekC.append(game1)
     game2 = (div2[opp], div2[opp+2])
-    weekThree.append(game2)
+    weekC.append(game2)
     game3 = (div1[opp+1], div2[opp+1])
-    weekThree.append(game3)
+    weekC.append(game3)
 
 
 def createMiddle(div1, div2, weekA, weekB, weekC):
