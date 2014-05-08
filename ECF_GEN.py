@@ -30,7 +30,6 @@ def createFirst (div1, div2, weekA, weekB, weekC):
     opp = 0
     
     # week A
-    
     game1 = (div1[opp], div1[opp+1])
     weekA.append(game1)
     game2 = (div1[opp+2], div2[opp])
