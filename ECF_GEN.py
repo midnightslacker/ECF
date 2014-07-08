@@ -129,7 +129,6 @@ def display(week):
 
 def generateSchedule():
     seed = random.randint(1,120)
-    print (seed)
     if seed <= 19:
         createFirst(North, South, week1, week2, week3)
         createFirst(East, West, week1, week2, week3)
