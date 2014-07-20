@@ -43,7 +43,3 @@ for name in random.sample(owners, len(owners)):
     call(["banner", str(name)])
     print("\n")
     counter+=1
-
-# set counter back to 0
-counter = 0
-
