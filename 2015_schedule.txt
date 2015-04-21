@@ -1,0 +1,118 @@
+
+	Week1:
+
+Jake	vs.	Chirst
+Shawn	vs.	Void
+Scuba	vs.	Ressler
+Gruver	vs.	Donch
+Pal	vs.	Hunt
+Jairus	vs.	NickA
+
+	Week2:
+
+Chirst	vs.	Shawn
+Void	vs.	Scuba
+Jake	vs.	Ressler
+Donch	vs.	Pal
+Hunt	vs.	Jairus
+Gruver	vs.	NickA
+
+	Week3:
+
+Jake	vs.	Shawn
+Void	vs.	Ressler
+Chirst	vs.	Scuba
+Gruver	vs.	Pal
+Hunt	vs.	NickA
+Donch	vs.	Jairus
+
+	Week4:
+
+Jake	vs.	Gruver
+Chirst	vs.	Donch
+Shawn	vs.	Pal
+Hunt	vs.	Void
+Jairus	vs.	Scuba
+NickA	vs.	Ressler
+
+	Week5:
+
+Jake	vs.	Donch
+Chirst	vs.	Pal
+Shawn	vs.	Gruver
+Hunt	vs.	Scuba
+Jairus	vs.	Ressler
+NickA	vs.	Void
+
+	Week6:
+
+Jake	vs.	Pal
+Chirst	vs.	Gruver
+Shawn	vs.	Donch
+Hunt	vs.	Ressler
+Jairus	vs.	Void
+NickA	vs.	Scuba
+
+	Week7:
+
+Jake	vs.	Scuba
+Chirst	vs.	Void
+Shawn	vs.	Ressler
+Gruver	vs.	Jairus
+Donch	vs.	Hunt
+Pal	vs.	NickA
+
+	Week8:
+
+Jake	vs.	Hunt
+Chirst	vs.	Jairus
+Shawn	vs.	NickA
+Gruver	vs.	Void
+Donch	vs.	Scuba
+Pal	vs.	Ressler
+
+	Week9:
+
+Jake	vs.	Jairus
+Chirst	vs.	NickA
+Shawn	vs.	Hunt
+Gruver	vs.	Scuba
+Donch	vs.	Ressler
+Pal	vs.	Void
+
+	Week10:
+
+Jake	vs.	NickA
+Chirst	vs.	Hunt
+Shawn	vs.	Jairus
+Gruver	vs.	Ressler
+Donch	vs.	Void
+Pal	vs.	Scuba
+
+	Week11:
+
+Jake	vs.	Chirst
+Shawn	vs.	Scuba
+Void	vs.	Ressler
+Gruver	vs.	Donch
+Pal	vs.	Jairus
+Hunt	vs.	NickA
+
+	Week12:
+
+Chirst	vs.	Shawn
+Jake	vs.	Void
+Scuba	vs.	Ressler
+Donch	vs.	Pal
+Gruver	vs.	Hunt
+Jairus	vs.	NickA
+
+	Week13:
+
+Jake	vs.	Shawn
+Chirst	vs.	Ressler
+Void	vs.	Scuba
+Gruver	vs.	Pal
+Donch	vs.	NickA
+Hunt	vs.	Jairus
+
