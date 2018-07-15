@@ -3,10 +3,10 @@
 import random
 from subprocess import call
 
-year = 2014
+year = 2018
 
 # Make an array of Team Owners
-owners = ['Hunt', 'Void', 'Shawn', 'Jairus', 'Jake', 'Pal', 'Nick A', 'Scuba', 'Guver', 'Christ', 'Donch', 'Ressler']
+owners = ['Scuba', 'NickA', 'Hunt', 'Christ', 'Hiren', 'Jairus', 'Pal', 'Gruver', 'Ressler', 'Shawn', 'Void', 'Donch']
 
 # counter to change behavior for last pick
 counter = 0
