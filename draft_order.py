@@ -1,16 +1,20 @@
-#!/usr/bin/env python3.4
+'''
+Author:         @midnightslacker
+Last Updatee:   03/06/2022
+Description:    ECF Fantasy Football draft order.
+'''
 
+#!/usr/bin/env python3
 import random
-from subprocess import call
 
-year = 2018
+YEAR = 2022
 
 # Make an array of Team Owners
-owners = ['Scuba', 'NickA', 'Hunt', 'Christ', 'Hiren', 'Jairus', 'Pal', 'Gruver', 'Ressler', 'Shawn', 'Void', 'Donch']
+OWNERS = ['Scuba', 'NickA', 'Hunt', 'Christ', 'Hiren', 'Jairus', 'Pal', 'Gruver', 'Ressler', 'Shawn', 'Void', 'Donch']
 
 # counter to change behavior for last pick
-counter = 1
+COUNTER = 1
 
-for name in random.sample(owners, len(owners)):
-    print (str(counter) + ": " + str(name))
-    counter+=1
+for name in random.sample(OWNERS, len(OWNERS)):
+    print (str(COUNTER) + ": " + str(name))
+    COUNTER+=1
