@@ -13,7 +13,7 @@ South = [7,8,9]     # 3,7,11
 West = [10,11,12]   # 4,8,12
 
 # Make an array of Team Owners -- Array index mathces Team ID in Divisions
-owners = ['', 'Void', 'Scuba', 'Adam', 'Gruver', 'Ressler', 'Christ', 'Hunt', 'Jairus', 'Nick A', 'Shawn', 'Hiren', 'Donch']
+owners = ['', 'Void', 'Scuba', 'Pal', 'Gruver', 'Ressler', 'Christ', 'Hunt', 'Jairus', 'Nick A', 'Shawn', 'Hiren', 'Donch']
 
 # Set up empty list for each week
 week1 = []

@@ -16,7 +16,7 @@ OWNERS = ['Scuba', 'NickA', 'Hunt', 'Christ', 'Hiren', 'Jairus', 'Pal', 'Gruver'
 COUNTER = 1
 
 # shuffle the list
-random.shuffle(OWNERS)
+random.shuffle(OWERS)
 
 # pick a random sample from the shuffled list
 for name in random.sample(OWNERS, len(OWNERS)):
