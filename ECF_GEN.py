@@ -1,6 +1,6 @@
 '''
 Author:         @midnightslacker
-Last Updatee:   03/06/2022
+Last Update:   07/6/2024
 Description:    ECF Fantasy Football Schedule generator.
 '''
 #!/usr/bin/env python3
@@ -13,7 +13,7 @@ South = [7,8,9]     # 3,7,11
 West = [10,11,12]   # 4,8,12
 
 # Make an array of Team Owners -- Array index mathces Team ID in Divisions
-owners = ['', 'Void', 'Scuba', 'Adam', 'Gruver', 'Ressler', 'Christ', 'Hunt', 'Jairus', 'Nick A', 'Shawn', 'Hiren', 'Donch']
+owners = ['', 'Hiren', 'Gruver', 'Ressler', 'Christ', 'Shawn', 'Jairus', 'Void', 'Scuba', 'Nick A', 'Adam', 'Hunt', 'Donch']
 
 # Set up empty list for each week
 week1 = []

@@ -1,16 +1,16 @@
 '''
 Author:         @midnightslacker
-Last Updatee:   03/06/2022
+Last Update:   07/6/2024
 Description:    ECF Fantasy Football draft order.
 '''
 
 #!/usr/bin/env python3
 import random
 
-YEAR = 2022
+YEAR = 2024
 
 # Make an array of Team Owners
-OWNERS = ['Scuba', 'NickA', 'Hunt', 'Christ', 'Hiren', 'Jairus', 'Pal', 'Gruver', 'Ressler', 'Shawn', 'Void', 'Donch']
+OWNERS = ['Hiren', 'Gruver', 'Ressler', 'Christ', 'Shawn', 'Jairus', 'Void', 'Scuba', 'Nick A', 'Adam', 'Hunt', 'Donch']
 
 # counter to change behavior for last pick
 COUNTER = 1
