@@ -1,6 +1,6 @@
 ECF
 ===
 
-![alt tag](http://cache.comcorpusa.com/640/0/crop/nbc33tv/media/sports/fantasy_football.jpg)
+![alt tag](https://seeklogo.com/images/F/fantasy-football-logo-B18E1061E7-seeklogo.com.png)
 
 Generate FF Schedule for ECF Fantasy Football League
